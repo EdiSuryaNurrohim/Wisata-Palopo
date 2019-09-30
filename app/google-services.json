@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999789255334",
+    "firebase_url": "https://wisatapalopo-a6bb2.firebaseio.com",
+    "project_id": "wisatapalopo-a6bb2",
+    "storage_bucket": "wisatapalopo-a6bb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999789255334:android:85e60f6c0218b85bae3267",
+        "android_client_info": {
+          "package_name": "com.turispalopo.android.wisatapalopo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999789255334-95bmrdhkp7vg6uk1eqbffdn8geudarlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turispalopo.android.wisatapalopo",
+            "certificate_hash": "b2176771b459a129babcf739e753498ded9d90e3"
+          }
+        },
+        {
+          "client_id": "999789255334-5tdlh415lakov0s3imc84ai71mhnpkgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgqJkt0aoH0dICSQOx7CWTm199Rx8d-F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999789255334-5tdlh415lakov0s3imc84ai71mhnpkgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

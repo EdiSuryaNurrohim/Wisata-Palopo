@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WisataPalopo</string>
+    <string name="nama_wisata">Wisata</string>
+    <string name="alamat_wisata">Alamat</string>
+    <string name="deskripsi_wisata">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="cardview">CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+
+    <string name="title_wisata">Daftar Wisata</string>
+    <string name="title_peta">Peta Lokasi</string>
+    <string name="title_darurat">No Darurat</string>
+    <string name="title_info">Info Aplikasi</string>
+    <string name="title_keluar">Keluar</string>
+    <string name="title_nama_wisata">Nama Wisata</string>
+    <string name="title_deskripsi_wisata">Deskripsi Wisata</string>
+    <string name="title_alamat_wisata">Alamat Wisata</string>
+    <string name="title_activity_peta_wisata">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
